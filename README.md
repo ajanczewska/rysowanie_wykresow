@@ -4,15 +4,15 @@ Program rysuje wykres na podstawie wzoru oraz parametrów funkcji podanych przez
 
 ## O aplikacji
 
-w polu <b><em>Podaj wzór funkcji</em></b> należy wpisać wzór funkcji.<br>
-Jako zmienną podajemy <b><em>x</em></b>. Można również wybrać wzór z kalkulatora znajdującego sie pod tym polem.<br>
-W polu <b><em>Zakres x</em></b> należy podać zakres na osi poziomej.<br>
-W polu <b><em>Zakres y</em></b> należy podać zakres na osi pionowej.<br>
+W polu <b><em>Podaj wzór funkcji</em></b> należy wpisać wzór funkcji.<br>
+Jako zmienną podajemy <b><em>x</em></b>. Można również wybrać gotowe wzory z przycisków znajdujących się pod tym polem.<br>
+W polu <b><em>Zakres x</em></b> należy podać zakres liczbowy osi poziomej.<br>
+W polu <b><em>Zakres y</em></b> należy podać zakres liczbowy osi pionowej.<br>
 W polu <b><em>Tytuł</em></b> można wpisać tytuł, który wyświetli się na wykresie.<br>
 W polu <b><em>Etykieta na osi x</em></b> można wpisać nazwę osi poziomej.<br>
 W polu <b><em>Etykieta na osi y</em></b> można wpisać nazwę osi pionowej.<br>
 Można również zaznaczyć opcję legendy na wykresie.<br>
-Po naciśnięciu przycisku <b><em>Rysuj</em></b> generuje się wykres podanej funkcji wraz z podanymi parametrami.<br>
+Po naciśnięciu przycisku <b><em>Rysuj</em></b> generuje się wykres funkcji wraz z podanymi parametrami.<br>
 Przycisk <b><em>Zakończ</em></b> zamyka program.<br>
 
 ## Instalowanie
