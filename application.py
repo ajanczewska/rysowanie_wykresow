@@ -6,8 +6,8 @@ from matplotlib import rc
 import numpy as np
 import matplotlib.figure
 import matplotlib.backends.backend_tkagg
-import sympy
 import re
+
 class Application(tk.Frame):
     def __init__(self, master=None):
         """Metoda generuje głowne okno GUI i wywołuje metody, które tworzą elementy w nim zawarte"""
@@ -27,7 +27,7 @@ class Application(tk.Frame):
 
     def created_labels(self):
         """Metoda tworzy widgety, które odpowiadają za wyświetlanie tekstu"""
-        self.wz_label = tk.Label(self.master, text="Podaj wzór funkcji (jako zmienną przyjmij 'x')", font=('Arial', 14, 'bold'))
+        self.wz_label = tk.Label(self.master, text="Podaj wzór funkcji (jako zmiennej'x')", font=('Arial', 14, 'bold'))
         self.wz_label.pack()
         self.wz_label.place(x=70, y=40)
         
